@@ -1,0 +1,22 @@
+5/15/2016 7:48:26 PM Disabling record mode. Click debug is not supported for recording.
+5/15/2016 7:48:26 PM AutoSave successfully loaded: last.autosave
+5/15/2016 7:48:26 PM New State: MainMenu_Intro01
+5/15/2016 7:48:28 PM Looking Right. Difference: (1.297579, 25.40552, 6.192276)
+5/15/2016 7:48:28 PM Looking Left. Difference: (7.191236, 35.42703, 6.929554)
+5/15/2016 7:48:29 PM Looking Left. Difference: (2.675556, 32.37808, 7.55188)
+5/15/2016 7:48:30 PM Looking Right. Difference: (4.981654, 26.41415, 4.72168)
+5/15/2016 7:48:35 PM New State: MainMenu_Intro02
+5/15/2016 7:48:37 PM New State: MainMenu_Intro03
+5/15/2016 7:48:38 PM New State: MainMenu_WaitForBegin
+5/15/2016 7:48:39 PM Looking Right. Difference: (6.869103, 44.70233, 4.394522)
+5/15/2016 7:48:44 PM Autosave Created.
+5/15/2016 7:48:44 PM GameVersion: 5
+5/15/2016 7:48:44 PM GameState: 100
+5/15/2016 7:48:44 PM New State: MenuSensitivityTest
+5/15/2016 7:48:44 PM New State: MenuSensitivityTest_Intro1
+5/15/2016 7:48:45 PM Looking Left. Difference: (6.14444, 25.2179, 2.398903)
+5/15/2016 7:48:47 PM Looking Left. Difference: (3.831749, 34.0531, 6.196947)
+5/15/2016 7:48:50 PM New State: MenuSensitivityTest_Intro2
+5/15/2016 7:48:52 PM New State: MenuSensitivityTest_Test
+5/15/2016 7:49:03 PM Looking Left. Difference: (1.259635, 33.77316, 8.409217)
+5/15/2016 7:49:03 PM Success: True True Left False False

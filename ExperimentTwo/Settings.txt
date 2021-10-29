@@ -1,0 +1,16 @@
+GameVersion 5
+StartingResources 100
+PreGameBonusResources 20
+PostRoundBonusResources 20
+BasicTowerBaseStats 20,20,0.5
+FrostTowerBaseStats 0.6,15,1
+SwarmTowerBaseStats 20,20,0.2
+ExplosiveTowerBaseStats 35,20,0.8
+WaveIntervalTime 60
+TowerCosts 30,40,50,50
+FirstWaveDefinition 1:0;1:0;1:0;1:0;1:0;-1:-1;1:0;1:0;1:2;1:2;1:0;1:0;1:2;1:2;-1:-1;1:0;1:0;1:0;1:0;1:2;1:2;1:2;1:2;1:0;1:0;1:0;1:0;1:2;1:2;1:2;1:2;-1:-1
+SecondWaveDefinition 1:1;1:1;1:1;1:1;1:1;-1:-1;1:2;1:2;1:1;1:2;1:2;1:1;1:2;1:2;1:1;-1:-1;1:0;1:1;1:2;1:0;1:1;1:2;1:0;1:1;1:2;-1:-1
+ThirdWaveDefinition 1:2;1:2;1:2;1:2;1:2;1:2;1:2;1:2;1:2;1:2;1:2;1:2;-1:-1;1:0;1:0;1:2;1:2;1:2;1:2;1:0;1:0;1:2;1:2;1:2;1:2;1:1;1:1;1:1;1:1;-1:-1;1:0;1:0;1:1;1:1;1:2;1:2;1:0;1:0;1:1;1:1;1:2;1:2;1:0;1:0;1:1;1:1;1:2;1:2;5:3;-1:-1
+BossWaveDefinition 1.5:3;1.5:1;1.5:3;1.5:1;1.5:3;1.5:3;1.5:1;1.5:3;1.5:1;1.5:3;-1:-1
+SkipToStage 0
+ReplayFile null
